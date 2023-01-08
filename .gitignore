@@ -2,3 +2,4 @@ config.py
 test.py
 bot.py
 lexically_bot.session
+/cache
