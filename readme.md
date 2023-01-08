@@ -1,5 +1,3 @@
-# Lexically Bot
-
 # **Lexically Bot**
 
 A Telegram bot that provides the meaning, example, and pronunciation of words.
